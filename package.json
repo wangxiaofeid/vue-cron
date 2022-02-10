@@ -1,7 +1,7 @@
 {
   "name": "@xiaofei.wang/vue-cron",
-  "description": "A Vue.js project",
-  "version": "0.0.1",
+  "description": "Vue版本cron表达式",
+  "version": "1.0.0",
   "author": "wangxiaofeid <979436452@qq.com>",
   "license": "MIT",
   "private": false,
